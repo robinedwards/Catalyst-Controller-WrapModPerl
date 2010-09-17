@@ -1,0 +1,10 @@
+Changes
+lib/Apache/DumbHeader.pm
+lib/Apache/DumbRequest.pm
+lib/Catalyst/Controller/ApacheLocations.pm
+lib/Catalyst/Controller/WrapModPerl.pm
+Makefile.PL
+MANIFEST
+README
+t/00-use.t
+META.yml

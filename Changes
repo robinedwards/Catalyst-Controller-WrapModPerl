@@ -1,0 +1,6 @@
+Revision history for Perl extension Catalyst::Controller::WrapModPerl.
+
+0.01  Fri Sep 17 12:06:26 2010
+	- original version; created by h2xs 1.23 with options
+		-X -n Catalyst::Controller::WrapModPerl
+
